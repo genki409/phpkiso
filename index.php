@@ -15,7 +15,7 @@
 <html lang="ja">
 <head>
   <meta charset="utf-8">
-  <title>お問い合わせ</title>
+  <title>お問い合わせ内容</title>
 </head>
 <body>
   <h1>お問い合わせ情報入力</h1>
